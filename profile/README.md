@@ -8,4 +8,4 @@ The mission of the company is to provide our customers with an entirely new wire
 BitPath aims to distribute public domain software through these github repositories.
 
 ## Projects
-1. ATSC 3.0 Development Kit - This project provides a web application framework for transmitting and receiving text content over the ATSC 3.0 airchain. 
+1. [ATSC 3.0 Development Kit] (https://github.com/orgs/BitPath/projects/2) - This project provides a web application framework for transmitting and receiving text content over the ATSC 3.0 airchain. 
